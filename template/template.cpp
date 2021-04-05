@@ -5,6 +5,7 @@ using namespace std;
 typedef long long ll;
 typedef pair<int, int> ii;
 typedef vector<int> vi;
+typedef double K;
 const int INF = 0x3f3f3f3f;
 
 #define FOR(i, b, e) for(int i = (b); i < (e); i++)
