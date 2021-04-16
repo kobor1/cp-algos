@@ -8,7 +8,7 @@ ll rhoPollard(ll n) {
 	while(g == 1) {
 		x = step(x);
 		y = step(step(y));
-		g = binaryGCD(abs(x - y), n);
+		g = gcd(abs(x - y), n);
 	}
 	return g;
 }
