@@ -1,5 +1,5 @@
-K romberg(K l, K r, int n){
-	auto trapezoid = [l, r](int n){
+K romberg(K l, K r, int n) {
+	auto trapezoid = [l, r](int n) {
 		K h = (r - l) / n;
 		K sum = - (f(l) + f(r)) / 2;
 		FOR(i, 0, n + 1) sum += f(l + i * h);

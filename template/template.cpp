@@ -15,15 +15,15 @@ constexpr int INF = 0x3f3f3f3f;
 #define X first
 #define Y second
 
-void solve(){
+void solve() {
 
 }
 
-int main(){
+int main() {
 	ios::sync_with_stdio(0);
 	cin.tie(0);
 	// int tt; cin >> tt;
-	// FOR(te, 0, tt){
+	// FOR(te, 0, tt) {
 	// 	// cout << "Case #" << te + 1 << ": ";
 	// 	solve();
 	// }
