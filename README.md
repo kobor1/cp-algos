@@ -1,4 +1,4 @@
-Collection of some competitive programming algos.
+Collection of selected competitive programming algos.
 
 | Math | Numerical | Template |
 | ---- | --------- | -------- |
